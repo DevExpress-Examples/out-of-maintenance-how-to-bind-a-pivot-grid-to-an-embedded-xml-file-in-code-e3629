@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/DXPivotGrid_BindingToEmbeddedXMLInCode/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/DXPivotGrid_BindingToEmbeddedXMLInCode/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/DXPivotGrid_BindingToEmbeddedXMLInCode/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXPivotGrid_BindingToEmbeddedXMLInCode/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/DXPivotGrid_BindingToEmbeddedXMLInCode/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/DXPivotGrid_BindingToEmbeddedXMLInCode/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to: Bind a Pivot Grid to an Embedded XML File in Code
